@@ -1,6 +1,4 @@
-## Hi there 👋. My name is Rey I'am a self taught programmer from New York 
-
-![](https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-city-sunset_23-2151120914.jpg?semt=ais_rp_progressive&w=740&q=80)
+## Hi there 👋. My name is Rey. Self taught developer, coding and learning for fun. A life long learner from New York.
 
 <!--
 **AvianOnline/AvianOnline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
