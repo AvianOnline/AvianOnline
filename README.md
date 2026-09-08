@@ -1,24 +1,50 @@
-## Hi there 👋. My name is Rey. Self taught developer, coding and learning for fun. A life long learner from New York.
+![Rey Valera — creating, coding, learning](assets/banner.svg)
 
-<!--
-**AvianOnline/AvianOnline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/avatar.png" width="112" height="112" alt="Rey’s illustrated avatar" />
+</p>
 
-Here are some ideas to get you started:
+## `> whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I’m **Rey** — a self-taught developer and lifelong learner from **New York**. I code and learn for fun, building little tools and exploring ideas along the way.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+```text
+$ cat interests.txt
+  code     → self-taught, always learning
+  sound    → aspiring audio engineer
+  life     → dad, gamer, lifelong learner
+```
+
+## `> ls ./toolkit`
+
+**Languages & styling**
+
+![HTML5](assets/html5.svg) ![CSS3](assets/css3.svg) ![JavaScript](assets/javascript.svg) ![Markdown](assets/markdown.svg) ![Tailwind CSS](assets/tailwind-css.svg)
+
+**Frameworks & tooling**
+
+![Astro](assets/astro.svg) ![Bun](assets/bun.svg) ![Vite](assets/vite.svg)
+
+**Hosting**
+
+![Cloudflare](assets/cloudflare.svg) ![Netlify](assets/netlify.svg)
+
+**Data & backends**
+
+![PocketBase](assets/pocketbase.svg) ![Supabase](assets/supabase.svg) ![MySQL](assets/mysql.svg) ![MongoDB](assets/mongodb.svg) ![Appwrite](assets/appwrite.svg) ![Postgres](assets/postgres.svg)
+
+## `> cat ./currently-playing`
+
+| Cartridge | Game | Status |
+| :--- | :--- | :--- |
+| `OW` | Overwatch | Playing |
+| `D4` | Diablo 4 | On rotation |
+| `D2` | Destiny 2 | Revisiting |
+
+## `> connect`
+
+[Discord](https://discord.gg/JVegsscZ) · [Steam](https://steamcommunity.com/profiles/76561198236226660)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AvianOnline&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><code>THANKS FOR STOPPING BY / KEEP LEARNING_</code></p>
