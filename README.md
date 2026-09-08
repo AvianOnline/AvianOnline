@@ -1,4 +1,4 @@
-[![Rey Valera.sh — Power level over 9000. Creating sounds. Figuring out code. Learning something new.](assets/banner.svg)]
+![Rey Valera.sh — Power level over 9000. Creating sounds. Figuring out code. Learning something new.](assets/banner.svg)
 
 <p align="center"><code>AUDIO EXPLORER</code> &nbsp; <code>SELF-TAUGHT CODER</code> &nbsp; <code>DAD</code></p>
 
