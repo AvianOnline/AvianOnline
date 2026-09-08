@@ -2,57 +2,56 @@
 
 <p align="center"><code>AUDIO EXPLORER</code> &nbsp; <code>SELF-TAUGHT CODER</code> &nbsp; <code>DAD</code></p>
 
-## Player profile
+<p align="center">
+  <a href="#current-quests">01 / Work</a> &nbsp; · &nbsp;
+  <a href="#loaded-cartridges">02 / Games</a> &nbsp; · &nbsp;
+  <a href="#behind-the-controller">03 / Life</a>
+</p>
+
+## ![00 / Player profile](assets/profile.svg)
 
 Hi, I’m **Rey** — a self-taught developer and lifelong learner from **New York**. I code and learn for fun, building little tools and exploring ideas along the way.
 
-```text
-$ cat interests.txt
-  code     → self-taught, always learning
-  sound    → aspiring audio engineer
-  life     → dad, gamer, lifelong learner
-```
+> **SAVE FILE / REY VALERA**<br>
+> `CODE` Always learning &nbsp; · &nbsp; `SOUND` Aspiring audio engineer &nbsp; · &nbsp; `LIFE` Dad & gamer
 
-## 01 / Current quests
+<a id="current-quests"></a>
 
-**Sound** — Exploring mixes, recordings, and “what if I tried this?” experiments.
+## ![01 / Current quests](assets/quests.svg)
 
-**Code** — Little tools, side projects, and lessons learned along the way.
+| `QUEST 01 · SOUND` | `QUEST 02 · CODE` |
+| :--- | :--- |
+| **From the studio** | **Things I’m building** |
+| Exploring mixes, recordings, and “what if I tried this?” experiments. | Little tools, side projects, and lessons learned along the way. |
 
-### Inventory
+![Inventory — Languages and styling: HTML5, CSS3, JavaScript, Markdown, Tailwind CSS. Frameworks and tooling: Astro, Bun, Vite. Hosting: Cloudflare, Netlify. Data and backends: PocketBase, Supabase, MySQL, MongoDB, Appwrite, Postgres.](assets/inventory.svg)
 
-**Languages & styling**
+<a id="loaded-cartridges"></a>
 
-`HTML5` `CSS3` `JavaScript` `Markdown` `Tailwind CSS`
+## ![02 / Loaded cartridges](assets/games.svg)
 
-**Frameworks & tooling**
+`GAMES IN ROTATION / 3 SLOTS`
 
-`Astro` `Bun` `Vite`
+<p>
+  <img src="assets/overwatch.svg" width="32%" alt="Overwatch — Playing. One more run." />
+  <img src="assets/diablo.svg" width="32%" alt="Diablo 4 — On rotation. Demons. Loot. Repeat." />
+  <img src="assets/destiny.svg" width="32%" alt="Destiny 2 — Revisiting. Back for another adventure." />
+</p>
 
-**Hosting**
+<a id="behind-the-controller"></a>
 
-`Cloudflare` `Netlify`
-
-**Data & backends**
-
-`PocketBase` `Supabase` `MySQL` `MongoDB` `Appwrite` `Postgres`
-
-## 02 / Loaded cartridges
-
-| Cartridge | Game | Status |
-| :--- | :--- | :--- |
-| `OW` | Overwatch | Playing |
-| `D4` | Diablo 4 | On rotation |
-| `D2` | Destiny 2 | Revisiting |
-
-## 03 / Behind the controller
+## ![03 / Behind the controller](assets/life.svg)
 
 Outside of code and the studio, I’m a dad. Always learning, always creating, and making room for a little bit of gaming.
 
-### Connect
+> `SIDE QUESTS` Family time · Sound experiments · A little gaming
 
-[Website](https://reyvalera.com) · [Instagram](https://www.instagram.com/young.lobo/) · [Discord](https://discord.gg/JVegsscZ) · [Steam](https://steamcommunity.com/profiles/76561198236226660)
+## ![04 / Multiplayer — Connect](assets/connect.svg)
 
----
+<p align="center">
+  <a href="https://reyvalera.com"><strong>VISIT MY WORLD ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://discord.gg/JVegsscZ"><strong>DISCORD ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://steamcommunity.com/profiles/76561198236226660"><strong>STEAM ↗</strong></a>
+</p>
 
-<p align="center"><code>THANKS FOR STOPPING BY / KEEP LEARNING_</code></p>
+[![Thanks for stopping by. Keep learning / Continue?](assets/footer.svg)](https://reyvalera.com)
