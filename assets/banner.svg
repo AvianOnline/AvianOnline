@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<title id="title">Rey Valera.sh — Player profile</title>
+<desc id="desc">An arcade panel. Power level over 9000. Creating sounds. Figuring out code. Learning something new.</desc>
+<rect width="960" height="320" fill="#0b0917"/>
+<rect x="10" y="8" width="940" height="304" fill="#121126" stroke="#7766b8" stroke-width="4"/>
+<path d="M6 8V312" stroke="#d766b5" stroke-width="6"/><path d="M954 8V312" stroke="#91d5ed" stroke-width="6"/>
+<g font-family="Courier New,monospace" font-weight="bold">
+<text x="40" y="60" font-size="30" fill="#d766b5">REY VALERA.sh</text>
+<text x="38" y="58" font-size="30" fill="#91d5ed">REY VALERA.sh</text>
+<rect x="44" y="86" width="880" height="204" fill="#292451"/>
+<rect x="38" y="80" width="880" height="204" fill="#151528" stroke="#7766b8" stroke-width="2"/>
+<path d="M39 81H917V122H39Z" fill="#2c265b"/>
+<path d="M38 122H918" stroke="#b4a5ee" stroke-width="2"/>
+<text x="56" y="107" font-size="16" fill="#f4ea7b">PLAYER PROFILE</text>
+<g fill="#f4ea7b"><rect x="856" y="96" width="8" height="8"/><rect x="872" y="96" width="8" height="8"/><rect x="888" y="96" width="8" height="8"/></g>
+<text x="60" y="157" font-size="13" fill="#c8c6df" letter-spacing="2">SAVE FILE / REY VALERA</text>
+<text x="60" y="199" font-size="34" fill="#f4ea7b">Power level over 9000.</text>
+<text x="60" y="235" font-size="18" font-weight="normal" fill="#e3e1ef">Creating sounds. Figuring out code.</text>
+<text x="60" y="261" font-size="18" font-weight="normal" fill="#e3e1ef">Learning something new.</text>
+<g fill="#91d5ed"><rect x="802" y="218" width="16" height="16"/><rect x="818" y="202" width="16" height="48"/><rect x="834" y="218" width="16" height="16"/></g>
+<rect x="870" y="210" width="12" height="12" fill="#d766b5"/><rect x="886" y="232" width="12" height="12" fill="#f4ea7b"/>
+</g></svg>
