@@ -1,4 +1,4 @@
-[![Rey Valera.sh — Power level over 9000. Creating sounds. Figuring out code. Learning something new.](assets/banner.svg)](https://reyvalera.com)
+[![Rey Valera.sh — Power level over 9000. Creating sounds. Figuring out code. Learning something new.](assets/banner.svg)]
 
 <p align="center"><code>AUDIO EXPLORER</code> &nbsp; <code>SELF-TAUGHT CODER</code> &nbsp; <code>DAD</code></p>
 
@@ -19,9 +19,9 @@ Hi, I’m **Rey** — a self-taught developer and lifelong learner from **New Yo
 
 ## ![01 / Current quests](assets/quests.svg)
 
-| `QUEST 01 · SOUND` | `QUEST 02 · CODE` |
-| :--- | :--- |
-| **From the studio** | **Things I’m building** |
+| `QUEST 01 · SOUND`                                                    | `QUEST 02 · CODE`                                               |
+| :-------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **From the studio**                                                   | **Things I’m building**                                         |
 | Exploring mixes, recordings, and “what if I tried this?” experiments. | Little tools, side projects, and lessons learned along the way. |
 
 ![Inventory — Languages and styling: HTML5, CSS3, JavaScript, Markdown, Tailwind CSS. Frameworks and tooling: Astro, Bun, Vite. Hosting: Cloudflare, Netlify. Data and backends: PocketBase, Supabase, MySQL, MongoDB, Appwrite, Postgres.](assets/inventory.svg)
@@ -49,7 +49,6 @@ Outside of code and the studio, I’m a dad. Always learning, always creating, a
 ## ![04 / Multiplayer — Connect](assets/connect.svg)
 
 <p align="center">
-  <a href="https://reyvalera.com"><strong>VISIT MY WORLD ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://discord.gg/JVegsscZ"><strong>DISCORD ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://steamcommunity.com/profiles/76561198236226660"><strong>STEAM ↗</strong></a>
 </p>
